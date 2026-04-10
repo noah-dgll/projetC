@@ -21,10 +21,12 @@ L’utilisateur peut :
 
 # Prérequis
 
-Avant d’utiliser le projet, assurez-vous d’avoir installé :
+Je ne suis pas parvenu à mettre mon "codespace",sur lequel j'ai travaillé tout le long, sur mon github correctement. 
+En effet après avoir testé le lien auprès d'amis, je me suis aperçu qu'il ne fonctionnait pas.
+Ainsi, j'ai copié collé tout les fichiers de mon codespace dans la branche "main" de mon github pour que vous puissiez facilement y avoir accés.
 
-* Un compilateur C (nécessaire mais normalement intégré à VScode)
-* GTK 3 et pkg-config (si vous souhaitez faire tourner l'application, ce que je ne suis pas parvenu à faire)
+Vous devez donc copier tout ces fichiers dans un environnement tel que VSCode afin de pouvoir utiliser le projet à votre volonté.
+Une fois les fichiers copiés dans un environnement de code, allez dans le terminal du main.c puis effectuez la compilation et l'éxecution du code, décrite ci-dessous.
 
 # Compilation
 
@@ -40,6 +42,7 @@ Une fois le code compilé, entrez :
 # utilisation
 
 Entrez simplement les chiffres qui vous intéressent en vous laissant guider par le menu affiché. Amusez-vous à explorer toutes les fonctionnalités !
+Toutes les fonctionnalités sont plus précisemment décrites dans le compte-rendu si besoin.
 
 # Structure du projet
 
